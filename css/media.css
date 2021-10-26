@@ -1,0 +1,32 @@
+@media(max-width:575px) and (min-width:320px){
+    .navbar-light .navbar-nav .nav-link{
+        margin-left: 0;
+    
+        display: inline-block;
+    }
+    .nav-item{
+        text-align: center;
+    }
+    .cashback{
+        text-align: center;
+    }
+    .cashback h1{
+        font-size: 32px;
+    }
+    .cashback p{
+        font-size: 16px;
+    }
+    .chef-content p{
+        width: auto;
+    }
+    .burger img {
+        width: 60%;
+        margin-left: 20%;
+    }
+    .burger-content{
+        text-align: center;
+    }
+    .burger-content p{
+        width: auto;
+    }
+}
